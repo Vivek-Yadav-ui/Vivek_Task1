@@ -1,14 +1,10 @@
-#Laundary Wallah/ Lundary Mart
+# Hello World 
+This project displays "Hello World!" in the browser.
 
-##Project Description
-- Header section
-- About section
-- Image of Laundary
-- Services Section
-- Price list using a table
-- Book Now form
-- Footer with contact information
+## Files
+- index.html
+- README.md
 
-#How to Run
- Open index.html in any browser
-
+## How to run
+1. Open the 'index.html' file in any browser.
+2. The browser will display Hello World!.
